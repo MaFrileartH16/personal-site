@@ -27,7 +27,7 @@ export default function Hero() {
 					transition={{duration: 0.8}}
 				>
 					<h1 className="text-4xl md:text-5xl font-bold mb-4">
-						Welcome, I'm [Your Name]
+						Welcome, I&#39;m [Your Name]
 					</h1>
 					<p className="text-lg md:text-xl mb-6 text-gray-700">
 						I create modern, high-performance websites and web applications.

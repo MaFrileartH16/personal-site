@@ -20,7 +20,7 @@ export default function About() {
 				</h2>
 				<div className="max-w-3xl mx-auto text-center text-gray-700">
 					<p className="text-lg mb-4">
-						I'm [Your Name], a passionate web developer who thrives on building scalable, accessible, and
+						I&#39;m [Your Name], a passionate web developer who thrives on building scalable, accessible, and
 						performance-optimized digital experiences.
 					</p>
 					<p className="text-lg mb-4">
